@@ -12,7 +12,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'sisopr=my_module.main:main',
+            'sisop=my_module.main:main',
         ],
     },
 )
